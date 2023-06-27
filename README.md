@@ -1,4 +1,4 @@
-# Machine Learning on DIN rails
+# Machine Learning on Deutsches Institut für Normung (DIN) rails
 
 Anomaly Detection using Machine Learning on Fieldbus. This is part of the Master thesis.
 
