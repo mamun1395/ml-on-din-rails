@@ -12,8 +12,6 @@ Anomaly Detection using Machine Learning on Fieldbus. This is part of the Master
 
 2. `data_processing.ipynb` transforms raw dataset folders into one single file on which ML algorithms can be applied.
 
-3. To do.
-
 ## Time taken
 
 | Model  | Training     | Test      |
